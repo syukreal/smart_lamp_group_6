@@ -12,9 +12,13 @@ On the software side, Node-RED must be installed and configured to connect to th
 Software Use
 
 i) Wokwi 
+
 ii) ngrok
+
 iii) mosquitto
+
 iv) node-red 
+
 v) gitbash
 
 Instructions
